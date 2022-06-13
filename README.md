@@ -1,3 +1,14 @@
+## Pre-req
+
+Install npm
+
+```sh
+brew install npm
+```
+![video](https://user-images.githubusercontent.com/10250297/173398724-12cbcc35-81b2-4b08-832d-737b928e960a.gif)
+
+
+
 ## Installation
 
 Make sure you've got [Node.js installed](https://Node.js.org/en/download/) on your workstation, than open your terminal and type the following command:
