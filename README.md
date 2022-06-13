@@ -44,7 +44,8 @@ Run `npm start` to start the server:
 
 Open the url shown in above step in your browser and follow instructions to register your app.
 
-![register-pro-bot-app](https://user-images.githubusercontent.com/10250297/173403744-4db6a82c-df4f-46b0-9c21-54b4880f7e7c.gif)
+![register-pro-bot-app](https://user-images.githubusercontent.com/10250297/173406587-b9c9f429-3f5c-4c13-ade2-94d99ef0e70a.gif)
+
 
 This step will create .env with the following
 
