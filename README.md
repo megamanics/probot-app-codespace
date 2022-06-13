@@ -42,6 +42,20 @@ Run `npm start` to start the server:
 
 ![npmstart](https://user-images.githubusercontent.com/10250297/173401958-5191fb8d-7341-450a-9bd3-e840a6557cfe.gif)
 
+Open the url shown in above step in your browser and follow instructions to register your app.
+
+![register-pro-bot-app](https://user-images.githubusercontent.com/10250297/173403744-4db6a82c-df4f-46b0-9c21-54b4880f7e7c.gif)
+
+This step will create .env with the following
+
+```
+WEBHOOK_PROXY_URL
+APP_ID
+PRIVATE_KEY
+WEBHOOK_SECRET
+GITHUB_CLIENT_ID
+GITHUB_CLIENT_SECRET
+```
 
 ## Reference
 [Probot docs](https://probot.github.io/docs) 
