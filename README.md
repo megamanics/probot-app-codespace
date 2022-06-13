@@ -35,6 +35,13 @@ and follow the instructions printed on the terminal as you go. `create-probot-ap
 ![npxcreate](https://user-images.githubusercontent.com/10250297/173399590-882adfbb-c2ab-43d2-a7dd-470e7694366b.gif)
 
 
-## How to run locally
 
-See the [Probot docs](https://probot.github.io/docs/development/#running-the-app-locally) to get started running your app locally.
+## Configure
+
+Run `npm start` to start the server:
+
+![npmstart](https://user-images.githubusercontent.com/10250297/173401958-5191fb8d-7341-450a-9bd3-e840a6557cfe.gif)
+
+
+## Reference
+[Probot docs](https://probot.github.io/docs) 
