@@ -62,5 +62,8 @@ GITHUB_CLIENT_SECRET
 
 [New Codespace](https://github.com/codespaces/new)
 
+![Create CodeSpace](https://user-images.githubusercontent.com/10250297/175279222-ae070e3c-6a4a-4a2a-8d83-57a62001868a.png)
+
+
 ## Reference
 [Probot docs](https://probot.github.io/docs) 
