@@ -17,8 +17,8 @@ brew install npm
 ## OR USE a CodeSpace
 
 [New Codespace](https://github.com/codespaces/new)
+![codespaceCreate](https://user-images.githubusercontent.com/10250297/175281293-7d6d04ba-e3c1-40fa-a18b-d69ff580ab91.png)
 
-![Create CodeSpace](https://user-images.githubusercontent.com/10250297/175279388-693b9ffc-d6de-4f16-937c-94bba0fa4afb.png)
 
 ## Create a new App using template
 
