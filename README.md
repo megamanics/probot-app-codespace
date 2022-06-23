@@ -14,7 +14,7 @@ brew install npm
 ![video](https://user-images.githubusercontent.com/10250297/173398724-12cbcc35-81b2-4b08-832d-737b928e960a.gif)
 
 
-## OR USE a CodeSpaces
+## OR USE a CodeSpace
 
 [New Codespace](https://github.com/codespaces/new)
 
