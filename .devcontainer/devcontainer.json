@@ -15,9 +15,12 @@
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	//"remoteUser": "vscode",
 	"features": {
-		"git": "os-provided",
+		"git": "latest",
 		"github-cli": "latest",
-		"node": "lts"
+		"node": "lts",
+		"azure-cli": "latest",
+		"docker-in-docker": "latest",
+		"python": "latest"
 	},
-	"postCreateCommand": "sudo apt-get install npm"
+	"postCreateCommand": "npm install"
 }
